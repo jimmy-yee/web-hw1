@@ -1,0 +1,77 @@
+body{
+  margin: 0px;
+}
+#word1{
+  display: flex;
+  width:auto;
+  height: 100px;
+  background-color: #EAE2D6;
+}
+h1 {
+  font-family: 'Bauhaus 93';
+  font-size: 30px;
+  width: 200px;
+  color: #998B7A;
+  position: relative;
+  top: 10px;
+  left: 40px;
+  
+}
+
+#pic1{
+ background-color: #EAE2D6;
+ padding: 40px;
+}
+#pig{
+  position: relative;
+  left: 270px;
+  z-index: 2;
+}
+#money{
+  position: relative;
+  left: 330px;
+  z-index: 1;
+}
+#hand{
+  position: relative;
+  left: 520px;
+  top: -200px;
+  transform: rotate(-90deg);
+  z-index: 2;
+}
+#handmoney{
+  position: relative;
+  left: 250px;
+  top: -230px;
+  transform: rotate(90deg);
+  z-index: 1;
+}
+
+#pic2{
+
+  width: 1514px;
+  height: 180px;
+  display: inline-block;
+  margin: 0,auto;
+  
+}
+.element2{
+  width: 125px;
+  height: 100px;
+  margin: 3%;
+  opacity: 0.5;
+  
+  
+}
+#pic3{
+  display: flex;
+  width: 1514px;
+  height: 100px;
+ 
+}
+
+.element3{
+  width: 1500px;
+}
+
+
